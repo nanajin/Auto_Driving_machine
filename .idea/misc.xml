@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-ldltr/left.xml" value="0.26979166666666665" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/corner_button.xml" value="0.1" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/gradient.xml" value="0.1" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_display.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main2.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main3.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_settings.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/camera.xml" value="0.264" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/control.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/control1.xml" value="0.264" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_home.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/height.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/help.xml" value="0.264" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/home.xml" value="0.264" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/operation.xml" value="0.264" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/operation_next.xml" value="0.264" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/setting.xml" value="0.264" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/settings.xml" value="0.264" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/start_display.xml" value="0.264" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/test.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/test11.xml" value="0.1" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/testhome.xml" value="0.264" />
+        <entry key="..\:/Users/nmj37/AndroidStudioProjects/MyApplication/app/src/main/res/layout/toast_layout.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
